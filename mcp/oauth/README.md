@@ -38,7 +38,7 @@ mcp/oauth/
 ### 1. Start Backend API Server
 
 ```bash
-cd ../simple/server
+cd ../simple/server/app
 go run server.go
 # Service will start at http://localhost:8081
 ```

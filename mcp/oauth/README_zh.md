@@ -38,7 +38,7 @@ mcp/oauth/
 ### 1. 启动后端 API 服务器
 
 ```bash
-cd ../simple/server
+cd ../simple/server/app
 go run server.go
 # 服务将在 http://localhost:8081 启动
 ```
