@@ -104,7 +104,6 @@ jobs:
           
             Files removed:
             - .github/workflows/sync-to-upstream.yml
-            - .github/workflows/SYNC_WORKFLOW_GUIDE.md"
           fi
 
       # Step 6: Push sync branch to origin
@@ -232,4 +231,3 @@ jobs:
             --label "sync-failure,needs-attention"
           
           echo "❌ Rebase failed. Issue created for manual resolution."
-
