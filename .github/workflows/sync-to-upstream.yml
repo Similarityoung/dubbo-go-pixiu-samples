@@ -43,7 +43,7 @@ env:
   FORK_REPO: dubbo-go-pixiu-samples
 
   # Branch name (main/master/develop)
-  BASE_BRANCH: develop
+  BASE_BRANCH: main
 
   # Git bot configuration (for commits)
   BOT_NAME: "Pixiu Bot"
