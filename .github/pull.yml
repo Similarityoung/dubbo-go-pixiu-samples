@@ -20,7 +20,7 @@
 version: "1"
 rules:
   - base: develop
-    upstream: apache:develop
+    upstream: apache:main
     mergeMethod: rebase
     mergeUnstable: false
     assignees:
